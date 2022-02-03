@@ -1,5 +1,6 @@
 # RealTimeBusTracker
 
+In the RealTimeBusTracker you can see where the bus is coming, in real time.
 
 **How To Run**
 
